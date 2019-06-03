@@ -1,5 +1,5 @@
 # skylibraryexam
-Library Store information
+Library Store to retrieve book information.
 
 
 ###### Application requires below software to run, required to add them to classpath 
@@ -7,7 +7,7 @@ Library Store information
 2. Maven
 
 
-###### Clone the repository and run below command to see the test
+###### Clone the repository and run below command 
 
 $> mvn clean install
 
